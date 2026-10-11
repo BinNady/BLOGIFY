@@ -16,7 +16,7 @@ A web-based blogging platform built with **Laravel, PHP, Blade, MySQL, Tailwind 
 ![BLOGIFY Articles ](screenshots/home_2.jpeg)
 
 ### Article Details
-![BLOGIFY Article Details](screenshots/Details_2.jpeg)
+![BLOGIFY Article Details](screenshots/Details.jpeg)
 
 ### New Post
 ![BLOGIFY New Post](screenshots/new_post.jpeg)
