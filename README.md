@@ -6,11 +6,23 @@ A web-based blogging platform built with **Laravel, PHP, Blade, MySQL, Tailwind 
 
 ## 📸 Screenshots
 
-<!-- Replace the paths below with your actual screenshot paths -->
+### Welcome Page
+![BLOGIFY Welcome Page](screenshots/Welcome.png)
 
-<!-- Example: ![BLOGIFY Home Page](screenshots/home.png) -->
+### Home Page
+![BLOGIFY Home Page](screenshots/home.png)
 
-*Add your project screenshots here to showcase the interface and user experience.*
+### Articles
+![BLOGIFY Articles ](screenshots/home_2.png)
+
+### Article Details
+![BLOGIFY Article Details](screenshots/Details_2.png)
+
+### New Post
+![BLOGIFY New Post](screenshots/new_post.png)
+
+### Comments
+![BLOGIFY Comments](screenshots/comments.png)
 
 ---
 
