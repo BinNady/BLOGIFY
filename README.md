@@ -7,22 +7,22 @@ A web-based blogging platform built with **Laravel, PHP, Blade, MySQL, Tailwind 
 ## 📸 Screenshots
 
 ### Welcome Page
-![BLOGIFY Welcome Page](screenshots/Welcome.png)
+![BLOGIFY Welcome Page](screenshots/Welcome.jpeg)
 
 ### Home Page
-![BLOGIFY Home Page](screenshots/home.png)
+![BLOGIFY Home Page](screenshots/home.jpeg)
 
 ### Articles
-![BLOGIFY Articles ](screenshots/home_2.png)
+![BLOGIFY Articles ](screenshots/home_2.jpeg)
 
 ### Article Details
-![BLOGIFY Article Details](screenshots/Details_2.png)
+![BLOGIFY Article Details](screenshots/Details_2.jpeg)
 
 ### New Post
-![BLOGIFY New Post](screenshots/new_post.png)
+![BLOGIFY New Post](screenshots/new_post.jpeg)
 
 ### Comments
-![BLOGIFY Comments](screenshots/comments.png)
+![BLOGIFY Comments](screenshots/comments.jpeg)
 
 ---
 
